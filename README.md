@@ -1,0 +1,1 @@
+JAVASCRIPT learning from DJ :)

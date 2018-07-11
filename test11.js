@@ -7,7 +7,7 @@ var myObj = {
         return this.firstName + " "+ this.lastName
     }
 }
-
+//
 // console.log(myObj.getFullname());
 var myObj2 = myObj;
 myObj = {}; // new value
